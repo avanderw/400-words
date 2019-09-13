@@ -1,0 +1,11 @@
+2019-09-11 09:28: This will be the first entry of hopefully many. The goal is to write around 400 words per day. After which analysis can be tracked on various things in the text. The goal is to force myself to reflect and learn. In addition, to find out more about myself.
+
+Some things have changed this week for me. I have a CPAP machine now. It not only assists in reducing my snoring; it aids in getting enough oxygen to my system when I sleep. It is uncomfortable to sleep with. The benefits of using it are supposedly great. I have yet to see as I have only slept with it the last two nights. The humidifier is an interesting addition, though it sounds like I am snorkeling when it is on. 
+
+The custom board I have setup at work to track work and prioritize is definitely adding value. However, I am not so sure about the status reports just yet. This will be the second cadence in which we use the status tracking in the HTML format. I will review them later this week. I trust that they too over time will become something we can rely on for feedback sessions. I fear the granularity of them currently is too much. Though being a consumer of the reports might help.
+
+I find myself craving more alone time at work. This could be due to the increased involvement in planning. We currently have to look into strategic objectives for the next year. The questions that people ask around here are valid, though they do not have answers. The reason is that there is no guarantee in the timelines and they expect that timelines can be managed like an exact science. Anyway, I am finding that I have to answer the same questions over and over as if the constant update will actually add any value to the progression. We have cadences that run a month and we have sprints which run every two weeks. Why can they not just take that information and work with it. It is more than sufficient to track progress. These weekly status updates are extremely disruptive to mostly me. In addition, it means that I have to constantly be engaged with the team. Which in hindsight is maybe not such a bad thing.
+
+This leads me to believe that I should rather be focusing on regular status updates. Just how to make them less painful is the question.
+
+

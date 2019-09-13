@@ -1,0 +1,20 @@
+2019-09-11 Add feature to track +start-time
+2019-09-11 Add feature to track +time of activity
+2019-09-11 Add feature to track +wpm over time
+2019-09-11 Add feature to track +word-count over time
+2019-09-11 Add feature to show total +word-count in text
+2019-09-11 Add feature to track +time to 400
+2019-09-11 Add feature to track +typing-time vs +time
+2019-09-11 Add feature to track average +wpm
+2019-09-11 Add feature to track actual +wpm when typing
+2019-09-11 Add feature to track +distractions, e.g. breaks over 3 minutes
+2019-09-11 Add feature to identify +emotions summarised to a word
+2019-09-11 Add feature to identify +theme, summarised to a word
+2019-09-11 Add feature to identify +mindset, e.g. introvert, positive, uncertain, thinking
+2019-09-11 Add feature to identify +time-orientation, e.g. past, present, future
+2019-09-11 Add feature to identify primary +sense, e.g. sight, hearing, taste
+2019-09-11 Add feature to identify us vs. them, e.g. I, us, you, them
+2019-09-11 Add feature to identify fear, anger, sadness, disgust, surprise, joy +emotions
+2019-09-11 Add feature to identify +communication style, e.g. visual, auditory, kinesthetic, rational
+2019-09-11 Add feature to identify +sincerity of the text
+2019-09-11 Add feature to track +word-count over various articles
